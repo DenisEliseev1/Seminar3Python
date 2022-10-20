@@ -21,5 +21,5 @@ try:
     print (list_var)
     print (sum_oddnum (list_var))
 except:
-    print ('Введите')
+    print ('Ошибка!! Введите число!')
 
